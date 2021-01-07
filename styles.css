@@ -1,0 +1,19 @@
+#mainquote {
+	border: 8px solid green;
+}
+
+p {
+	color: red;
+	border: 1px solid black;
+
+}
+
+.quote {
+
+border: 5px solid black;
+}
+
+.quotesdiv {
+	border: 10px solid purple;
+	width:50%;
+}
